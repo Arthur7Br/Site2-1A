@@ -28,3 +28,8 @@ nav a{
     text-decoration: none;/* retirar o sublinhado do texto*/
 }
 
+img {
+    width: 50px;
+    height: 50px;
+}
+
