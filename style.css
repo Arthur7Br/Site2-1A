@@ -4,7 +4,7 @@ header{
 }
 
 .caixa{
-    position: /*menu dentro da caixa*/ 
+    position: relative; /*menu dentro da caixa*/ 
     width: 940px; /*largura da caixa*/
     margin: 0 auto;
 }
@@ -27,3 +27,4 @@ nav a{
     font-size: 22px; /*tamanho da fonte*/
     text-decoration: none;/* retirar o sublinhado do texto*/
 }
+
